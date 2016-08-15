@@ -1,0 +1,13 @@
+1.En s.o. linux o windows pero de preferencia  linux
+2. Instalar meteor. 
+>curl https://install.meteor.com/ | sh
+2. una vez instalada entrar al proyecto 
+entrar al proyecto
+En consola:
+>gameC meteor
+
+
+la Url: clonar o descargar el gameC en el git hub el nombre del repositorio es juegonoe
+https://github.com/noemi7/juegonoe
+
+
